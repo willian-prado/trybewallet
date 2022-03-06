@@ -1,6 +1,6 @@
 ## Projeto Trybewallet
 
-Sétimo projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Sétimo projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
 
 Após experimentarmos diversos problemas no compartilhamento de estado entre componentes que estão em camadas muito distantes (problema conhecido como *prop drilling*), finalmente somos introduzidos a uma ferramenta que permite gerenciar um estado global: o Redux. \
 O Redux é uma biblioteca de gerenciamento de estado global muito frequentemente utilizada com React, mas que também funciona em outros frameworks (ou mesmo JavaScript puro). 
