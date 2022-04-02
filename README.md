@@ -7,7 +7,7 @@ O Redux é uma biblioteca de gerenciamento de estado global muito frequentemente
 
 **Objetivo do projeto**
 
-Neste projeto você vai desenvolver uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
+Desenvolver uma carteira de controle de gastos com conversor de moedas, onde um usuário seja capaz de:
   - Adicionar, remover e editar um gasto;
   - Visualizar uma tabelas com seus gastos;
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
