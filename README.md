@@ -12,7 +12,7 @@ Desenvolver uma carteira de controle de gastos com conversor de moedas, onde um 
   - Visualizar uma tabelas com seus gastos;
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
-Sua página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_](https://docs.awesomeapi.com.br/api-de-moedas) para realizar a busca de câmbio de moedas.  
+A página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_](https://docs.awesomeapi.com.br/api-de-moedas) para realizar a busca de câmbio de moedas.  
 
 **Principais habilidades desenvolvidas nesse trabalho:**
 
