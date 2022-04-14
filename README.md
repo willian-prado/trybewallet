@@ -36,7 +36,7 @@ A página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_
 
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
