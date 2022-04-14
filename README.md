@@ -1,6 +1,6 @@
 ## Projeto Trybewallet
 
-> Sétimo projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Sexto projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
 
 **Contexto**
 
