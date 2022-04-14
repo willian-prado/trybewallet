@@ -2,6 +2,8 @@
 
 > Sétimo projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
 
+**Contexto**
+
 Após experimentarmos diversos problemas no compartilhamento de estado entre componentes que estão em camadas muito distantes (problema conhecido como *prop drilling*), finalmente somos introduzidos a uma ferramenta que permite gerenciar um estado global: o Redux. \
 O Redux é uma biblioteca de gerenciamento de estado global muito frequentemente utilizada com React, mas que também funciona em outros frameworks (ou mesmo JavaScript puro). 
 
@@ -22,6 +24,15 @@ A página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_
   - Criar dispatchers no Redux em aplicações React
   - Conectar Redux aos componentes React
   - Criar actions assíncronas em uma aplicação React que faz uso de Redux.
+
+**Tecnologias utilizadas**
+
+- <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" align="center" height="35"/> - HTML</a> 
+- <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" align="center" height="35"/> - CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/> - JavaScript</a>
+- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" align="center" height="35"/> - React</a>
+- <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" align="center" height="30"/> - React Router</a>
+- <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" height="30" align="center"/>  - Redux</a>
 
 ---
 
