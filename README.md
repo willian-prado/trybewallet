@@ -1,11 +1,10 @@
 ## Projeto Trybewallet
 
-> Sexto projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Sexto projeto do módulo de Front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Após experimentarmos diversos problemas no compartilhamento de estado entre componentes que estão em camadas muito distantes (problema conhecido como *prop drilling*), finalmente somos introduzidos a uma ferramenta que permite gerenciar um estado global: o Redux. \
-O Redux é uma biblioteca de gerenciamento de estado global muito frequentemente utilizada com React, mas que também funciona em outros frameworks (ou mesmo JavaScript puro). 
+Após experimentarmos muita dificuldade no compartilhamento de estado entre componentes que estão em camadas muito distantes (problema conhecido como *prop drilling*), finalmente somos introduzidos a uma ferramenta que permite gerenciar um estado global da aplicação: o Redux.
 
 **Objetivo do projeto**
 
@@ -16,7 +15,7 @@ Desenvolver uma carteira de controle de gastos com conversor de moedas, onde um 
 
 A página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_](https://docs.awesomeapi.com.br/api-de-moedas) para realizar a busca de câmbio de moedas.  
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Criar um store Redux em aplicações React
   - Criar reducers no Redux em aplicações React
@@ -107,4 +106,7 @@ A página _web_ irá consumir os dados da API do [_awesomeapi API de Cotações_
   * Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global.
 
     **Atenção**: o câmbio utilizado na edição deve ser o mesmo do cálculo feito na adição do gasto.
+    
+---
 
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
